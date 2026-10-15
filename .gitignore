@@ -1,0 +1,7 @@
+artifacts/
+__pycache__/
+*.pyc
+.env
+*.pass
+*.dll
+Web.config

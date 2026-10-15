@@ -1,0 +1,9 @@
+{
+  "ModelType": 118,
+  "SalespersonCode": "{{SalespersonCode}}",
+  "EmployeeCode": "{{EmployeeCode}}",
+  "FirstName": "ÖRNEK FirstName",
+  "LastName": "ÖRNEK LastName",
+  "OfficeCode": "{{OfficeCode}}",
+  "StoreCode": "{{StoreCode}}"
+}

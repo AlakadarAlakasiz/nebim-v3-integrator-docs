@@ -1,0 +1,19 @@
+{
+  "ModelType": 123,
+  "SurveyAnswerHeaderID": "{{exampleGuid}}",
+  "CurrAccCode": "{{CurrAccCode}}",
+  "DocumentDate": "2026-01-01T00:00:00",
+  "ApplicationCode": "{{ApplicationCode}}",
+  "ApplicationID": "{{exampleGuid}}",
+  "ContactID": "{{exampleGuid}}",
+  "Lines": [
+    {
+      "SurveyAnswerLineID": "{{exampleGuid}}",
+      "Description": "ÖRNEK Description",
+      "AnswerDate": "2026-01-01T00:00:00",
+      "AnswerNumeric": 0,
+      "AnswerText": "{{AnswerText}}",
+      "DescriptionForNo": "{{DescriptionForNo}}"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "ModelType": 223,
+  "CurrAccCode": "{{CurrAccCode}}",
+  "CurrAccTypeCode": 0,
+  "FirstName": "ÖRNEK FirstName",
+  "LastName": "ÖRNEK LastName",
+  "CurrAccDescription": "ÖRNEK CurrAccDescription",
+  "OfficeCode": "{{OfficeCode}}",
+  "PostalAddresses": [
+    {
+      "PostalAddressID": "{{exampleGuid}}",
+      "AddressTypeCode": "{{AddressTypeCode}}",
+      "CountryCode": "{{CountryCode}}",
+      "StateCode": "{{StateCode}}",
+      "CityCode": "{{CityCode}}",
+      "DistrictCode": "{{DistrictCode}}",
+      "Address": "{{Address}}"
+    }
+  ],
+  "Communications": [
+    {
+      "CommunicationID": "{{exampleGuid}}",
+      "CommAddress": "{{CommAddress}}",
+      "CommunicationTypeCode": "{{CommunicationTypeCode}}",
+      "ContactID": "{{exampleGuid}}",
+      "FormNumber": "{{FormNumber}}",
+      "SubCurrAccID": "{{exampleGuid}}"
+    }
+  ]
+}

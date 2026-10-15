@@ -1,0 +1,8 @@
+{
+  "ModelType": 148,
+  "CompanyCode": 1,
+  "StoreCode": "{{StoreCode}}",
+  "ProcessFlowCode": 0,
+  "SubCurrAccID": "{{exampleGuid}}",
+  "ProcessFlowDenyReasonCode": "{{ProcessFlowDenyReasonCode}}"
+}

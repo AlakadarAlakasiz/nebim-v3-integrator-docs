@@ -1,0 +1,9 @@
+{
+  "ModelType": 164,
+  "CustomerCode": "{{CustomerCode}}",
+  "CompanyCode": 1,
+  "ProcessCode": "{{ProcessCode}}",
+  "ProcessFlowCode": 0,
+  "SubCurrAccID": "{{exampleGuid}}",
+  "CurrAccType": 0
+}

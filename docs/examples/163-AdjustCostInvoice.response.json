@@ -1,0 +1,8 @@
+{
+  "ModelType": 163,
+  "AdjustCostHeaderID": "{{exampleGuid}}",
+  "AdjustCostNumber": "{{AdjustCostNumber}}",
+  "AdjustCostMethodCode": 4,
+  "Amount": 1,
+  "ProcessCode": "{{ProcessCode}}"
+}

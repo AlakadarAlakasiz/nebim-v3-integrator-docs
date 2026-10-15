@@ -1,0 +1,15 @@
+{
+  "ModelType": 28,
+  "ItemCode": "{{ItemCode}}",
+  "ItemDescription": "ÖRNEK ItemDescription",
+  "ItemDimTypeCode": 0,
+  "UnitOfMeasureCode1": "{{UnitOfMeasureCode1}}",
+  "ItemTaxGrCode": "{{ItemTaxGrCode}}",
+  "BOMEntityCode": "{{BOMEntityCode}}",
+  "Descriptions": [
+    {
+      "Description": "ÖRNEK Description",
+      "DataLanguageCode": "TR"
+    }
+  ]
+}

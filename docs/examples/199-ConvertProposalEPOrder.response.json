@@ -1,0 +1,11 @@
+{
+  "ModelType": 199,
+  "ProposalNumber": "{{ProposalNumber}}",
+  "OrderDate": "2026-01-01",
+  "OrderTime": "00:00:00",
+  "OfficeCode": "{{OfficeCode}}",
+  "WarehouseCode": "{{WarehouseCode}}",
+  "CreateReservation": false,
+  "ReApplyDiscountOffers": false,
+  "PriceOption": 0
+}

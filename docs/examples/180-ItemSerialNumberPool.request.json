@@ -1,0 +1,10 @@
+{
+  "ModelType": 180,
+  "SerialNumber": "{{SerialNumber}}",
+  "ItemCode": "{{ItemCode}}",
+  "ItemTypeCode": 1,
+  "ColorCode": "{{ColorCode}}",
+  "ItemDim1Code": "{{ItemDim1Code}}",
+  "ItemDim2Code": "{{ItemDim2Code}}",
+  "ItemDim3Code": "{{ItemDim3Code}}"
+}

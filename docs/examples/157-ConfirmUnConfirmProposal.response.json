@@ -1,0 +1,9 @@
+{
+  "ModelType": 157,
+  "IsConfirmed": true,
+  "HeaderIDs": [
+    {
+      "ProposalHeaderID": "{{exampleGuid}}"
+    }
+  ]
+}

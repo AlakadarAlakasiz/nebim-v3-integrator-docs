@@ -1,0 +1,10 @@
+{
+  "ModelType": 222,
+  "CustomerAddress": {
+    "CityName": "{{CityName}}",
+    "DistrictName": "{{DistrictName}}"
+  },
+  "FindDeliveryLocationSpName": "{{FindDeliveryLocationSpName}}",
+  "CalculateDeliveryAmountSpName": "{{CalculateDeliveryAmountSpName}}",
+  "Amount": 1
+}

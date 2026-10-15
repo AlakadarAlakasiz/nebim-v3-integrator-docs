@@ -1,0 +1,15 @@
+{
+  "ModelType": 215,
+  "CompanyCode": 1,
+  "GLAccCode": "{{GLAccCode}}",
+  "CostCenterCode": "{{CostCenterCode}}",
+  "GLAccDescription": "{{GLAccDescription}}",
+  "GLAccMainCode": "{{GLAccMainCode}}",
+  "GLAccSubCode1": "{{GLAccSubCode1}}",
+  "Descriptions": [
+    {
+      "Description": "ÖRNEK Description",
+      "DataLanguageCode": "TR"
+    }
+  ]
+}

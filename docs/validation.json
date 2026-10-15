@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "models": 238,
+  "types": 2325,
+  "postmanModelFolders": 238,
+  "postmanRequests": 779,
+  "requestExampleFiles": 238,
+  "responseExampleFiles": 238,
+  "partialSuccessSchemas": [
+    163
+  ],
+  "scope": "Original-service documentation only; offline coverage/JSON/source-route checks, not live execution",
+  "sqlOrHttpRequestsSent": false,
+  "sources": [
+    {
+      "name": "Original service metadata and dispatch catalogue",
+      "sha256": "8efe239deaecafbf229671717962c27c68db497fff60d4fc25697cc21da8eddd"
+    },
+    {
+      "name": "Bundled original-service contract snapshot",
+      "sha256": "2a17a7635f0524d9ced2bd96812fd27749e008ea11cd6570e331f0771118b2b7"
+    }
+  ],
+  "renderUnitChecks": {
+    "passed": true,
+    "modelTabRenders": 952,
+    "typeRenders": 2325,
+    "searchChecks": 5,
+    "postmanRequests": 779,
+    "scope": "Node VM with synthetic DOM: script syntax/render functions/search and JSON examples; not a browser visual/clipboard/download/Postman import test",
+    "browserVisualTestExecuted": false
+  }
+}

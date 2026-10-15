@@ -1,0 +1,22 @@
+{
+  "ModelType": 161,
+  "HeaderID": "{{exampleGuid}}",
+  "Description": "ÖRNEK Description",
+  "CompanyCode": 1,
+  "OfficeCode": "{{OfficeCode}}",
+  "DocumentDate": "2026-01-01T00:00:00",
+  "DocCurrencyCode": "TRY",
+  "LocalCurrencyCode": "TRY",
+  "Amount": 1,
+  "RefNumber": "{{RefNumber}}",
+  "Lines": [
+    {
+      "LineID": "{{exampleGuid}}",
+      "DocCurrencyCode": "TRY",
+      "Amount": 1,
+      "DueDate": "2026-01-01T00:00:00",
+      "CostCenterCode": "{{CostCenterCode}}",
+      "CreditGLAccCode": "{{CreditGLAccCode}}"
+    }
+  ]
+}

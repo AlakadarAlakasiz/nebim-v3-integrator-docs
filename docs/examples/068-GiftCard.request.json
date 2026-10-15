@@ -1,0 +1,9 @@
+{
+  "ModelType": 68,
+  "SerialNumber": "{{SerialNumber}}",
+  "ItemCode": "{{ItemCode}}",
+  "CurrencyCode": "TRY",
+  "ItemTypeCode": 1,
+  "Amount": 1,
+  "AfterSaleAvailableDay": 0
+}

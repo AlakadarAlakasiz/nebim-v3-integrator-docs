@@ -1,0 +1,12 @@
+{
+  "ModelType": 71,
+  "OperationDate": "2026-01-01",
+  "OperationTime": "00:00:00",
+  "OfficeCode": "{{OfficeCode}}",
+  "StoreCode": "{{StoreCode}}",
+  "InWarehouseCode": "{{InWarehouseCode}}",
+  "OutWarehouseCode": "{{OutWarehouseCode}}",
+  "ProductCode": "{{ProductCode}}",
+  "Qty1": 1,
+  "ITAttributes": {}
+}

@@ -1,0 +1,25 @@
+{
+  "ModelType": 93,
+  "HeaderID": "{{exampleGuid}}",
+  "CurrAccCode": "{{CurrAccCode}}",
+  "Description": "ÖRNEK Description",
+  "CompanyCode": 1,
+  "OfficeCode": "{{OfficeCode}}",
+  "StoreCode": "{{StoreCode}}",
+  "DocumentDate": "2026-01-01T00:00:00",
+  "IsReturn": false,
+  "DocCurrencyCode": "TRY",
+  "LocalCurrencyCode": "TRY",
+  "DocumentNumber": "{{DocumentNumber}}",
+  "RefNumber": "{{RefNumber}}",
+  "Lines": [
+    {
+      "LineID": "{{exampleGuid}}",
+      "Description": "ÖRNEK Description",
+      "DocCurrencyCode": "TRY",
+      "DueDate": "2026-01-01T00:00:00",
+      "DocumentNumber": "{{DocumentNumber}}",
+      "CreditAmount": 0
+    }
+  ]
+}

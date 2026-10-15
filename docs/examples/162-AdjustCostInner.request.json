@@ -1,0 +1,16 @@
+{
+  "ModelType": 162,
+  "AdjustCostHeaderID": "{{exampleGuid}}",
+  "InvoiceNumber": "{{InvoiceNumber}}",
+  "CompanyCode": 1,
+  "OfficeCode": "{{OfficeCode}}",
+  "StoreCode": "{{StoreCode}}",
+  "OperationDate": "2026-01-01T00:00:00",
+  "BankTransNumber": "{{BankTransNumber}}",
+  "DocCurrencyCode": "TRY",
+  "LocalCurrencyCode": "TRY",
+  "Amount": 1,
+  "Rate": 0,
+  "OperationTime": "00:00:00",
+  "RefNumber": "{{RefNumber}}"
+}

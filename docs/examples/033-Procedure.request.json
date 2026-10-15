@@ -1,0 +1,10 @@
+{
+  "ModelType": 33,
+  "ProcName": "{{ProcName}}",
+  "Parameters": [
+    {
+      "Name": "@Kod",
+      "Value": "{{ParameterValue}}"
+    }
+  ]
+}

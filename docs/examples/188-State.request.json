@@ -1,0 +1,13 @@
+{
+  "ModelType": 188,
+  "StateCode": "{{StateCode}}",
+  "CountryCode": "{{CountryCode}}",
+  "StateDescription": "{{StateDescription}}",
+  "Descriptions": [
+    {
+      "Description": "ÖRNEK Description",
+      "DataLanguageCode": "TR",
+      "DataLanguageDescription": "{{DataLanguageDescription}}"
+    }
+  ]
+}

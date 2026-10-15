@@ -1,0 +1,27 @@
+{
+  "ModelType": 150,
+  "CurrAccCode": "{{CurrAccCode}}",
+  "CurrAccDescription": "ÖRNEK CurrAccDescription",
+  "CompanyCode": 1,
+  "OfficeCode": "{{OfficeCode}}",
+  "CurrencyCode": "TRY",
+  "AccountClosingDate": "2026-01-01T00:00:00",
+  "Descriptions": [
+    {
+      "Description": "ÖRNEK Description",
+      "DataLanguageCode": "TR",
+      "DataLanguageDescription": "{{DataLanguageDescription}}"
+    }
+  ],
+  "PostalAddresses": [
+    {
+      "PostalAddressID": "{{exampleGuid}}",
+      "AddressTypeCode": "{{AddressTypeCode}}",
+      "CountryCode": "{{CountryCode}}",
+      "StateCode": "{{StateCode}}",
+      "CityCode": "{{CityCode}}",
+      "DistrictCode": "{{DistrictCode}}",
+      "Address": "{{Address}}"
+    }
+  ]
+}

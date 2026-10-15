@@ -1,0 +1,14 @@
+{
+  "ModelType": 187,
+  "CountryCode": "{{CountryCode}}",
+  "CurrencyCode": "TRY",
+  "CountryDescription": "{{CountryDescription}}",
+  "CountryISOCode": "{{CountryISOCode}}",
+  "TaxDecCode": "{{TaxDecCode}}",
+  "Descriptions": [
+    {
+      "Description": "ÖRNEK Description",
+      "DataLanguageCode": "TR"
+    }
+  ]
+}

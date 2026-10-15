@@ -1,0 +1,31 @@
+{
+  "ModelType": 30,
+  "CurrAccCode": "{{CurrAccCode}}",
+  "Description": "ÖRNEK Description",
+  "CompanyCode": 1,
+  "OfficeCode": "{{OfficeCode}}",
+  "StoreCode": "{{StoreCode}}",
+  "WarehouseCode": "{{WarehouseCode}}",
+  "ColorCode": "{{ColorCode}}",
+  "ItemDim1Code": "{{ItemDim1Code}}",
+  "DocCurrencyCode": "TRY",
+  "LocalCurrencyCode": "TRY",
+  "ItemDim2Code": "{{ItemDim2Code}}",
+  "ItemDim3Code": "{{ItemDim3Code}}",
+  "ProductTypeCode": 0,
+  "DocumentNumber": "{{DocumentNumber}}",
+  "ShipmentMethodCode": "{{ShipmentMethodCode}}",
+  "Lines": [
+    {
+      "LineID": "{{exampleGuid}}",
+      "ItemTypeCode": 1,
+      "ColorCode": "{{ColorCode}}",
+      "ItemDim1Code": "{{ItemDim1Code}}",
+      "Price": 1,
+      "DocCurrencyCode": "TRY",
+      "Qty2": 0,
+      "ItemDim2Code": "{{ItemDim2Code}}",
+      "ItemDim3Code": "{{ItemDim3Code}}"
+    }
+  ]
+}

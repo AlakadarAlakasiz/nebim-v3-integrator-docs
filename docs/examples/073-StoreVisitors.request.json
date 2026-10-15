@@ -1,0 +1,9 @@
+{
+  "ModelType": 73,
+  "CompanyCode": 1,
+  "OfficeCode": "{{OfficeCode}}",
+  "StoreCode": "{{StoreCode}}",
+  "CurrentDate": "2026-01-01T00:00:00",
+  "CurrentHour": 0,
+  "InVisitorCount": 0
+}

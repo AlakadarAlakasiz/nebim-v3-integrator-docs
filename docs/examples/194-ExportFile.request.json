@@ -1,0 +1,16 @@
+{
+  "ModelType": 194,
+  "ExportFileNumber": "{{ExportFileNumber}}",
+  "CurrAccCode": "{{CurrAccCode}}",
+  "CompanyCode": 1,
+  "OfficeCode": "{{OfficeCode}}",
+  "ClosingDate": "2026-01-01T00:00:00",
+  "CurrAccTypeCode": 0,
+  "Descriptions": [
+    {
+      "Description": "ÖRNEK Description",
+      "DataLanguageCode": "TR",
+      "DataLanguageDescription": "{{DataLanguageDescription}}"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ModelType": 50,
+  "HeaderID": "{{exampleGuid}}",
+  "VendorCode": "{{VendorCode}}",
+  "Description": "ÖRNEK Description",
+  "CompanyCode": 1,
+  "OfficeCode": "{{OfficeCode}}",
+  "StoreCode": "{{StoreCode}}",
+  "WarehouseCode": "{{WarehouseCode}}",
+  "OperationDate": "2026-01-01T00:00:00",
+  "IsReturn": false,
+  "OperationTime": "00:00:00",
+  "ShipmentMethodCode": "{{ShipmentMethodCode}}",
+  "Lines": [
+    {
+      "LineID": "{{exampleGuid}}",
+      "ItemTypeCode": 1,
+      "ItemCode": "{{ItemCode}}",
+      "ColorCode": "{{ColorCode}}",
+      "ItemDim1Code": "{{ItemDim1Code}}",
+      "ItemDim2Code": "{{ItemDim2Code}}",
+      "ItemDim3Code": "{{ItemDim3Code}}",
+      "Qty1": 1,
+      "Qty2": 0,
+      "Price": 1
+    }
+  ]
+}

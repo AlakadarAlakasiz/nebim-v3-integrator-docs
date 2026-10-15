@@ -1,0 +1,9 @@
+{
+  "ModelType": 111,
+  "Description": "ÖRNEK Description",
+  "WarehouseCode": "{{WarehouseCode}}",
+  "OperationDate": "2026-01-01T00:00:00",
+  "ATAtt01": "{{ATAtt01}}",
+  "ATAtt02": "{{ATAtt02}}",
+  "ATAtt03": "{{ATAtt03}}"
+}

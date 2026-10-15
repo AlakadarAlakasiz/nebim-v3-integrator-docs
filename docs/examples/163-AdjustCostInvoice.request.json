@@ -1,0 +1,17 @@
+{
+  "ModelType": 163,
+  "ProcessCode": "{{ProcessCode}}",
+  "AdjustCostMethodCode": 4,
+  "AdjustCostInvoices": [
+    {
+      "InvoiceNumber": "{{InvoiceNumber}}",
+      "CostLines": [
+        {
+          "LineID": "{{exampleGuid}}",
+          "IncreaseAmount": 1,
+          "ReduceAmount": 0
+        }
+      ]
+    }
+  ]
+}

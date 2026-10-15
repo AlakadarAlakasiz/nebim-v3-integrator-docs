@@ -1,0 +1,20 @@
+{
+  "ModelType": 160,
+  "Description": "ÖRNEK Description",
+  "CompanyCode": 1,
+  "OfficeCode": "{{OfficeCode}}",
+  "StoreCode": "{{StoreCode}}",
+  "DocumentDate": "2026-01-01T00:00:00",
+  "BankCurrAccCode": "{{BankCurrAccCode}}",
+  "DocCurrencyCode": "TRY",
+  "Lines": [
+    {
+      "LineID": "{{exampleGuid}}",
+      "CurrAccCode": "{{CurrAccCode}}",
+      "DocCurrencyCode": "TRY",
+      "Amount": 1,
+      "DueDate": "2026-01-01T00:00:00",
+      "BankAccNo": "{{BankAccNo}}"
+    }
+  ]
+}

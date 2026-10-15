@@ -1,0 +1,15 @@
+{
+  "ModelType": 236,
+  "CurrAccListCode": "{{CurrAccListCode}}",
+  "CompanyBrandCode": "{{CompanyBrandCode}}",
+  "ControlGroupRate": 0,
+  "CurrAccListDescription": "{{CurrAccListDescription}}",
+  "CurrAccTypeCode": 0,
+  "CustomerListCode": "{{CustomerListCode}}",
+  "Descriptions": [
+    {
+      "Description": "ÖRNEK Description",
+      "DataLanguageCode": "TR"
+    }
+  ]
+}

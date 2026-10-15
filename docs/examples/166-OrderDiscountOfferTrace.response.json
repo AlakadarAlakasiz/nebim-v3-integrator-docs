@@ -1,0 +1,9 @@
+{
+  "ModelType": 166,
+  "CustomerDiscountPointID": "{{exampleGuid}}",
+  "DiscountAmount": 0,
+  "DiscountOfferCode": "{{DiscountOfferCode}}",
+  "DiscountPointTypeCode": "{{DiscountPointTypeCode}}",
+  "DiscountRate": 0,
+  "DiscountVoucherTypeCode": "{{DiscountVoucherTypeCode}}"
+}

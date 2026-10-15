@@ -1,0 +1,27 @@
+{
+  "ModelType": 31,
+  "CurrAccCode": "{{CurrAccCode}}",
+  "FirstName": "ÖRNEK FirstName",
+  "LastName": "ÖRNEK LastName",
+  "CurrAccDescription": "ÖRNEK CurrAccDescription",
+  "CompanyCode": 1,
+  "OfficeCode": "{{OfficeCode}}",
+  "Descriptions": [
+    {
+      "Description": "ÖRNEK Description",
+      "DataLanguageCode": "TR",
+      "DataLanguageDescription": "{{DataLanguageDescription}}"
+    }
+  ],
+  "PostalAddresses": [
+    {
+      "PostalAddressID": "{{exampleGuid}}",
+      "AddressTypeCode": "{{AddressTypeCode}}",
+      "CountryCode": "{{CountryCode}}",
+      "StateCode": "{{StateCode}}",
+      "CityCode": "{{CityCode}}",
+      "DistrictCode": "{{DistrictCode}}",
+      "Address": "{{Address}}"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "ModelType": 219,
+  "CurrAccCode": "{{CurrAccCode}}",
+  "StartDate": "2026-01-01T00:00:00",
+  "WorkPlaceCode": "{{WorkPlaceCode}}",
+  "EmployeeCode": "{{EmployeeCode}}",
+  "CancelDate": "2026-01-01T00:00:00",
+  "EndDate": "2026-01-01T00:00:00"
+}

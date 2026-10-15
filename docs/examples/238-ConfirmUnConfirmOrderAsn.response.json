@@ -1,0 +1,9 @@
+{
+  "ModelType": 238,
+  "IsConfirmed": true,
+  "HeaderIDs": [
+    {
+      "OrderAsnHeaderID": "{{exampleGuid}}"
+    }
+  ]
+}

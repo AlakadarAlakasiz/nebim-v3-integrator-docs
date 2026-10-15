@@ -1,0 +1,6 @@
+{
+  "ModelType": 48,
+  "InvoiceHeaderID": "{{exampleGuid}}",
+  "ProcessCode": "{{ProcessCode}}",
+  "ReturnInvoiceHeaderID": "{{exampleGuid}}"
+}

@@ -1,0 +1,13 @@
+{
+  "ModelType": 227,
+  "LotCode": "{{LotCode}}",
+  "ItemDimTypeCode": 0,
+  "LotDescription": "{{LotDescription}}",
+  "Descriptions": [
+    {
+      "Description": "ÖRNEK Description",
+      "DataLanguageCode": "TR",
+      "DataLanguageDescription": "{{DataLanguageDescription}}"
+    }
+  ]
+}

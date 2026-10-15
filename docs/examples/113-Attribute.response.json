@@ -1,0 +1,12 @@
+{
+  "ModelType": 113,
+  "AttributeCode": "{{AttributeCode}}",
+  "Description": "ÖRNEK Description",
+  "AttributeDescription": "{{AttributeDescription}}",
+  "Descriptions": [
+    {
+      "Description": "ÖRNEK Description",
+      "DataLanguageCode": "TR"
+    }
+  ]
+}

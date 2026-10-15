@@ -1,0 +1,13 @@
+{
+  "ModelType": 171,
+  "Lines": [
+    {
+      "CustomerDiscountPointID": "{{exampleGuid}}",
+      "DigitalMarketingServiceCode": "{{DigitalMarketingServiceCode}}",
+      "DiscountAmount": 0,
+      "DiscountOfferCode": "{{DiscountOfferCode}}",
+      "DiscountPointTypeCode": "{{DiscountPointTypeCode}}",
+      "DiscountRate": 0
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "ModelType": 1,
+  "DatabaseName": "{{DatabaseName}}",
+  "UserGroupCode": "{{UserGroupCode}}",
+  "UserName": "{{UserName}}",
+  "Password": "{{Password}}",
+  "Validate": true
+}

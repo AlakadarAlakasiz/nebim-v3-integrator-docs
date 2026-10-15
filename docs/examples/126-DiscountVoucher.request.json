@@ -1,0 +1,9 @@
+{
+  "ModelType": 126,
+  "DiscountVoucherTypeCode": "{{DiscountVoucherTypeCode}}",
+  "SerialNumber": "{{SerialNumber}}",
+  "CustomerCode": "{{CustomerCode}}",
+  "CurrencyCode": "TRY",
+  "Amount": 1,
+  "CancelDate": "2026-01-01T00:00:00"
+}

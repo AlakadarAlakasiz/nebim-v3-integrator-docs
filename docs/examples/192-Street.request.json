@@ -1,0 +1,7 @@
+{
+  "ModelType": 192,
+  "DistrictCode": "{{DistrictCode}}",
+  "QuarterCode": 0,
+  "StreetCode": 0,
+  "Street": "{{Street}}"
+}

@@ -1,0 +1,9 @@
+{
+  "ModelType": 208,
+  "Payment": {
+    "ModelType": 45,
+    "DebitLines": [],
+    "Payments": [],
+    "PaymentHeaderID": "{{exampleGuid}}"
+  }
+}

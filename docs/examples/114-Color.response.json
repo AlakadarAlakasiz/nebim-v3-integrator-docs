@@ -1,0 +1,15 @@
+{
+  "ModelType": 114,
+  "ColorCode": "{{ColorCode}}",
+  "ColorCatalogCode1": "{{ColorCatalogCode1}}",
+  "ColorCatalogCode2": "{{ColorCatalogCode2}}",
+  "ColorCatalogCode3": "{{ColorCatalogCode3}}",
+  "ColorDescription": "{{ColorDescription}}",
+  "ColorHex": "{{ColorHex}}",
+  "Descriptions": [
+    {
+      "Description": "ÖRNEK Description",
+      "DataLanguageCode": "TR"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ModelType": 145,
+  "BankBranchCode": "{{BankBranchCode}}",
+  "BankCode": "{{BankCode}}",
+  "ChequeCode": "{{ChequeCode}}",
+  "ChequeTypeCode": 0,
+  "CurrAccCode": "{{CurrAccCode}}",
+  "CompanyCode": 1,
+  "CurrencyCode": "TRY",
+  "CityCode": "{{CityCode}}",
+  "DistrictCode": "{{DistrictCode}}",
+  "Amount": 1,
+  "DueDate": "2026-01-01T00:00:00",
+  "Descriptions": [
+    {
+      "Description": "ÖRNEK Description",
+      "DataLanguageCode": "TR",
+      "DataLanguageDescription": "{{DataLanguageDescription}}"
+    }
+  ]
+}

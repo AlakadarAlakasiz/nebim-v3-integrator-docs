@@ -1,0 +1,9 @@
+{
+  "ModelType": 184,
+  "VehicleCode": "{{VehicleCode}}",
+  "Description": "ÖRNEK Description",
+  "Brand": "{{Brand}}",
+  "LicensePlate": "{{LicensePlate}}",
+  "MaxVolume": 0,
+  "MaxWeight": 0
+}

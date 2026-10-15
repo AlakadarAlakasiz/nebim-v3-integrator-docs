@@ -1,0 +1,9 @@
+{
+  "ModelType": 183,
+  "DriverCode": "{{DriverCode}}",
+  "CurrAccCode": "{{CurrAccCode}}",
+  "FirstName": "ÖRNEK FirstName",
+  "LastName": "ÖRNEK LastName",
+  "CurrAccTypeCode": 0,
+  "IdentityNum": "{{IdentityNum}}"
+}

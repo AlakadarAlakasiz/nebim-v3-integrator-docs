@@ -1,0 +1,9 @@
+{
+  "ModelType": 45,
+  "CustomerCode": "{{CustomerCode}}",
+  "OfficeCode": "{{OfficeCode}}",
+  "StoreCode": "{{StoreCode}}",
+  "OperationDate": "2026-01-01T00:00:00",
+  "DocumentNumber": "{{DocumentNumber}}",
+  "CustomerTypeCode": 0
+}

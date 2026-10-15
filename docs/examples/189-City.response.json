@@ -1,0 +1,12 @@
+{
+  "ModelType": 189,
+  "CityCode": "{{CityCode}}",
+  "StateCode": "{{StateCode}}",
+  "CityDescription": "{{CityDescription}}",
+  "Descriptions": [
+    {
+      "Description": "ÖRNEK Description",
+      "DataLanguageCode": "TR"
+    }
+  ]
+}

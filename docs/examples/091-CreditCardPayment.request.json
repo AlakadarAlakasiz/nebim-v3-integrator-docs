@@ -1,0 +1,23 @@
+{
+  "ModelType": 91,
+  "CurrAccCode": "{{CurrAccCode}}",
+  "Description": "ÖRNEK Description",
+  "CompanyCode": 1,
+  "OfficeCode": "{{OfficeCode}}",
+  "StoreCode": "{{StoreCode}}",
+  "DocCurrencyCode": "TRY",
+  "LocalCurrencyCode": "TRY",
+  "PaymentDate": "2026-01-01T00:00:00",
+  "DocumentNumber": "{{DocumentNumber}}",
+  "RefNumber": "{{RefNumber}}",
+  "Lines": [
+    {
+      "LineID": "{{exampleGuid}}",
+      "DocCurrencyCode": "TRY",
+      "Amount": 1,
+      "AcquirerBankCode": "{{AcquirerBankCode}}",
+      "BankCardTypeCode": 0,
+      "CancelBankCode": "{{CancelBankCode}}"
+    }
+  ]
+}

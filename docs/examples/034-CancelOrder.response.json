@@ -1,0 +1,15 @@
+{
+  "ModelType": 34,
+  "OrderNumber": "{{OrderNumber}}",
+  "CancelDate": "2026-01-01",
+  "Lines": [
+    {
+      "LineID": "{{exampleGuid}}",
+      "Qty1": 1,
+      "Qty2": 0,
+      "OrderCancelReasonCode": "{{OrderCancelReasonCode}}",
+      "LineDescription": "ÖRNEK İPTAL"
+    }
+  ],
+  "Description": "ÖRNEK İPTAL"
+}

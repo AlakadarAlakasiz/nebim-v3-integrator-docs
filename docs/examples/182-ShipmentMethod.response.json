@@ -1,0 +1,12 @@
+{
+  "ModelType": 182,
+  "ShipmentMethodCode": "{{ShipmentMethodCode}}",
+  "ShipmentMethodDescription": "{{ShipmentMethodDescription}}",
+  "TransportModeCode": "{{TransportModeCode}}",
+  "Descriptions": [
+    {
+      "Description": "ÖRNEK Description",
+      "DataLanguageCode": "TR"
+    }
+  ]
+}

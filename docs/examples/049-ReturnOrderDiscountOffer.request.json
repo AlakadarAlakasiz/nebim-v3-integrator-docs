@@ -1,0 +1,6 @@
+{
+  "ModelType": 49,
+  "Description": "ÖRNEK Description",
+  "OrderHeaderID": "{{exampleGuid}}",
+  "ProcessCode": "{{ProcessCode}}"
+}

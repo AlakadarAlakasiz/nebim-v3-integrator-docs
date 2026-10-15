@@ -1,0 +1,9 @@
+{
+  "ModelType": 47,
+  "CustomerCode": "{{CustomerCode}}",
+  "Description": "ÖRNEK Description",
+  "AvailablePoint": 0,
+  "CustomerTypeCode": 0,
+  "DiscountPointID": "{{exampleGuid}}",
+  "DiscountPointTypeCode": "{{DiscountPointTypeCode}}"
+}

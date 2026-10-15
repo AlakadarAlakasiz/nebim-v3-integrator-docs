@@ -1,0 +1,12 @@
+{
+  "ModelType": 181,
+  "EmployeeDebitID": "{{exampleGuid}}",
+  "EmployeeCode": "{{EmployeeCode}}",
+  "Description": "ÖRNEK Description",
+  "DocumentDate": "2026-01-01T00:00:00",
+  "DocCurrencyCode": "TRY",
+  "LocalCurrencyCode": "TRY",
+  "Debit": 0,
+  "DueDate": "2026-01-01T00:00:00",
+  "DocumentNumber": "{{DocumentNumber}}"
+}

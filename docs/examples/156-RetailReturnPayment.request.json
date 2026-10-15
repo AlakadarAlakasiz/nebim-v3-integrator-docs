@@ -1,0 +1,8 @@
+{
+  "ModelType": 156,
+  "CustomerTypeCode": 4,
+  "CustomerCode": "{{CustomerCode}}",
+  "PaymentHeaderID": "{{exampleGuid}}",
+  "POSTerminalID": 0,
+  "Payments": []
+}

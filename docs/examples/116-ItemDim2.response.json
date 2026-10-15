@@ -1,0 +1,9 @@
+{
+  "ModelType": 116,
+  "ItemDim2Code": "{{ItemDim2Code}}",
+  "EraID": "{{exampleGuid}}",
+  "ItemDimType1": "{{ItemDimType1}}",
+  "ItemDimType10": "{{ItemDimType10}}",
+  "ItemDimType2": "{{ItemDimType2}}",
+  "ItemDimType3": "{{ItemDimType3}}"
+}

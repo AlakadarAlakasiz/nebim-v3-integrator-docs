@@ -1,0 +1,22 @@
+{
+  "ModelType": 186,
+  "VendorCode": "{{VendorCode}}",
+  "Description": "ÖRNEK Description",
+  "CompanyCode": 1,
+  "OfficeCode": "{{OfficeCode}}",
+  "DocCurrencyCode": "TRY",
+  "VendorPriceListNumber": "{{VendorPriceListNumber}}",
+  "Lines": [
+    {
+      "LineID": "{{exampleGuid}}",
+      "ItemTypeCode": 1,
+      "ItemCode": "{{ItemCode}}",
+      "ColorCode": "{{ColorCode}}",
+      "ItemDim1Code": "{{ItemDim1Code}}",
+      "ItemDim2Code": "{{ItemDim2Code}}",
+      "ItemDim3Code": "{{ItemDim3Code}}",
+      "Price": 1,
+      "DocCurrencyCode": "TRY"
+    }
+  ]
+}

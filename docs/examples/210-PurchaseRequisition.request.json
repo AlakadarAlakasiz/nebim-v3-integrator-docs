@@ -1,0 +1,23 @@
+{
+  "ModelType": 210,
+  "CurrAccCode": "{{CurrAccCode}}",
+  "Description": "ÖRNEK Description",
+  "CompanyCode": 1,
+  "OfficeCode": "{{OfficeCode}}",
+  "StoreCode": "{{StoreCode}}",
+  "ApplicationCode": "{{ApplicationCode}}",
+  "Lines": [
+    {
+      "LineID": "{{exampleGuid}}",
+      "ItemTypeCode": 1,
+      "ItemCode": "{{ItemCode}}",
+      "ColorCode": "{{ColorCode}}",
+      "ItemDim1Code": "{{ItemDim1Code}}",
+      "ItemDim2Code": "{{ItemDim2Code}}",
+      "ItemDim3Code": "{{ItemDim3Code}}",
+      "Price": 1,
+      "Amount": 1,
+      "CurrencyCode": "TRY"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "ModelType": 224,
+  "JobInterviewID": "{{exampleGuid}}",
+  "EmployeeCode": "{{EmployeeCode}}",
+  "InterViewTime": "00:00:00",
+  "InterviewDate": "2026-01-01T00:00:00",
+  "InterviewPlace": "{{InterviewPlace}}",
+  "JobCandidateCode": "{{JobCandidateCode}}"
+}

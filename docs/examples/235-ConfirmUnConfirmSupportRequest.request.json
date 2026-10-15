@@ -1,0 +1,9 @@
+{
+  "ModelType": 235,
+  "IsConfirmed": true,
+  "HeaderIDs": [
+    {
+      "SupportRequestHeaderID": "{{exampleGuid}}"
+    }
+  ]
+}

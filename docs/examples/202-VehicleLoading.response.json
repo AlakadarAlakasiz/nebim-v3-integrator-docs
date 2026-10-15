@@ -1,0 +1,17 @@
+{
+  "ModelType": 202,
+  "HeaderID": "{{exampleGuid}}",
+  "Description": "ÖRNEK Description",
+  "CompanyCode": 1,
+  "OfficeCode": "{{OfficeCode}}",
+  "StoreCode": "{{StoreCode}}",
+  "WarehouseCode": "{{WarehouseCode}}",
+  "Lines": [
+    {
+      "LineID": "{{exampleGuid}}",
+      "ShipmentHeaderID": "{{exampleGuid}}",
+      "ShippingNumber": "{{ShippingNumber}}",
+      "SortOrder": 0
+    }
+  ]
+}

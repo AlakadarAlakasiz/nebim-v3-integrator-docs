@@ -1,0 +1,25 @@
+{
+  "ModelType": 147,
+  "HeaderID": "{{exampleGuid}}",
+  "CurrAccCode": "{{CurrAccCode}}",
+  "Description": "ÖRNEK Description",
+  "CompanyCode": 1,
+  "OfficeCode": "{{OfficeCode}}",
+  "StoreCode": "{{StoreCode}}",
+  "DocumentDate": "2026-01-01T00:00:00",
+  "BankAccountCode": "{{BankAccountCode}}",
+  "CashAccountCode": "{{CashAccountCode}}",
+  "DocCurrencyCode": "TRY",
+  "LocalCurrencyCode": "TRY",
+  "DocumentNumber": "{{DocumentNumber}}",
+  "Lines": [
+    {
+      "LineID": "{{exampleGuid}}",
+      "DocCurrencyCode": "TRY",
+      "Amount": 1,
+      "BankBranchCode": "{{BankBranchCode}}",
+      "BankCode": "{{BankCode}}",
+      "ChequeAtt01": "{{ChequeAtt01}}"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ModelType": 203,
+  "Description": "ÖRNEK Description",
+  "CompanyCode": 1,
+  "OfficeCode": "{{OfficeCode}}",
+  "StoreCode": "{{StoreCode}}",
+  "WarehouseCode": "{{WarehouseCode}}",
+  "ApplicationCode": "{{ApplicationCode}}",
+  "Lines": [
+    {
+      "LineID": "{{exampleGuid}}",
+      "ItemTypeCode": 1,
+      "ItemCode": "{{ItemCode}}",
+      "ColorCode": "{{ColorCode}}",
+      "ItemDim1Code": "{{ItemDim1Code}}",
+      "ItemDim2Code": "{{ItemDim2Code}}",
+      "ItemDim3Code": "{{ItemDim3Code}}",
+      "Qty1": 1
+    }
+  ]
+}
