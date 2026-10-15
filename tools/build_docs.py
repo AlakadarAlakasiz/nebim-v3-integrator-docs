@@ -313,7 +313,13 @@ for m in data:
     text+='\n### Modelde hata değerlendirmesi\n\nGiriş/oturum, model ve alan türü, kayıt bulunamaması, referans/iş doğrulaması ve lisans/yetki koşulları ortak [Hatalar](#hatalar) bölümünde açıklanır. Bunlar bu modelde canlı denenmiş bütün hata metinleri değildir. Yanıttaki ModelType0 istek ModelType değerini0 yapmanız gerektiğini göstermez. Timeout/kuyruk belirsizliğinde önce ilk işlemi sorgulayın; otomatik tekrar yazmayın.\n'
     text+='\n### Giriş / çıkış alanları\n\ntrue: sözleşmede var; false: yok; diğer: koşullu. Anahtar metadata bilgisidir; salt okunur scalar ile getter-only koleksiyon ayrıdır. Uzunluk bilinmiyorsa sınırsızlık, alan listesi zorunluluk/varsayılan iddiası değildir.\n\n'+md_table(fields_for(registry['models'][m['code']]))
     if m['special']:text+='\nÖzel işlemde dinamik gövde esas alınır. Model163 tablosu yalnız doğrulanan baz header alanlarını,113 tablosu seçilen CustomerAttribute örneğini gösterir; selector ve özel nested gövdeler ayrıca ele alınır.\n'
+    page=text.replace('](TYPES.md#','](../TYPES.md#').replace('](#hatalar)','](../HTTP-AND-ERRORS.md#hatalar)')
+    write(f'models/{m["code"]:03d}-{m["name"]}.md','[Model dizinine dön](../MODELS.md) · [HTTP ve hatalar](../HTTP-AND-ERRORS.md)\n'+page)
     sections.append(text)
+write('HTTP-AND-ERRORS.md',header.split('## Model dizini')[0])
+index='# Özgün Nebim V3 Entegratör — model dizini\n\n[HTTP, giriş ve hata rehberi](HTTP-AND-ERRORS.md) · [Tam çevrimdışı Markdown](ALL-MODELS.md) · [Aranabilir HTML](index.html)\n\n238 modelin her biri ayrı sayfadadır. Örnekler kaynak/metadata şablonudur; canlı başarı garantisi değildir.\n\n| Kod | Model | Tanıtım |\n|---:|---|---|\n'
+for m in data:index+=f'| {m["code"]} | [{m["name"]}](models/{m["code"]:03d}-{m["name"]}.md) | {m["title"]} |\n'
+write('MODELS.md',index)
 write('ALL-MODELS.md',header+'\n'.join(sections)+'\n## 0 — None\n\nİşlem modeli olmayan sentinel; hata yanıtındaki ModelType0 ile karıştırılmamalıdır.\n')
 type_lines=['# Alt nesne ve tip sözlüğü','',f'{len(types)} metadata tipi. Koleksiyon container özellikleri JSON dizi satırı değildir; örnek gövdeler somut element tipini kullanır. Enum değerleri yalnız metadata’dır; alan/kurulum geçerliliği ayrıca kontrol edilir.','']
 for name,t in sorted(types.items()):
@@ -365,11 +371,12 @@ write('index.html',template.replace('__DATA__',json.dumps(document,ensure_ascii=
 assert len(folders)==238 and [m['code'] for m in data]==list(range(1,239))
 assert len(list((OUT/'examples').glob('*.request.json')))==238
 assert len(list((OUT/'examples').glob('*.response.json')))==238
+assert len(list((OUT/'models').glob('*.md')))==238
 for p in OUT.rglob('*.json'):read(p)
 for p in [OUT/'ALL-MODELS.md',OUT/'TYPES.md',OUT/'index.html']:
     assert '\ufffd' not in p.read_text(encoding='utf-8'),p
 validation={'passed':True,'models':238,'types':len(types),'postmanModelFolders':238,'postmanRequests':sum(len(f['item']) for f in folders),
- 'requestExampleFiles':238,'responseExampleFiles':238,'partialSuccessSchemas':[163],
+ 'requestExampleFiles':238,'responseExampleFiles':238,'individualModelPages':238,'partialSuccessSchemas':[163],
  'scope':'Original-service documentation only; offline coverage/JSON/source-route checks, not live execution','sqlOrHttpRequestsSent':False,'sources':document['sources']}
 write('validation.json',dump(validation)+'\n')
 node=shutil.which('node') or ('C:/Program Files/nodejs/node.exe' if Path('C:/Program Files/nodejs/node.exe').exists() else None)
